@@ -1,0 +1,3 @@
+[console_scripts]
+predict_molec_prop = predict_molec_prop.main:cli
+
